@@ -2,7 +2,10 @@
 {
     public class HijaA : Padre
     {
-        protected string? Titulo {  get; set; }
-        protected int NumColegiado { get; set; }
+        protected string? Titulo { get; set; }
+        protected int NumColegiado { get; set; } 
+
+        //sad adsa
+        // confirmacion 
     }
 }
