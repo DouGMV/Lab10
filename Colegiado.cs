@@ -1,6 +1,6 @@
 ﻿namespace Lab10
 {
-    public class HijaA : Padre
+    public class Colegiado : Persona
     {
         protected string? Titulo { get; set; }
         protected int NumColegiado { get; set; } 

@@ -1,6 +1,6 @@
 ﻿namespace Lab10
 {
-    public class Padre
+    public class Persona
     {
         public string? Nombre { get; set; }
         public string? Apellido { get; set; }
@@ -10,7 +10,7 @@
         protected int Carne {  get; set; }
         protected int Notas { get; set; }
 
-        public Padre()
+        public Persona()
         {
 
         }
